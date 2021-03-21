@@ -1,11 +1,8 @@
 # DMW
 Assignment For 6th Semester Course Data Mining and Warehouse course
 
-<h1> Group Member : </h1>
-<ul>
-  <li>Harsh Goyal        : IIT2018114 </li>
-  <li>Aaditya Gadhave    : IIT2018144 </li>
-  <li>Sourabh Gupta      : IIT2018149 </li>
-  <li>Meet Singh Gambhir : IIT2018158 </li>
-  <li>Tushar Atrey       : IIT2018159 </li>
- </ul>
+1. IIT2018114 - Harsh Goyal  <br/>
+2. IIT2018144 - Aaditya Gadhave <br/>
+3. IIT2018149 - Sourabh Gupta <br/>
+4. IIT2018158 - Meet Singh Gambhir <br/>
+5. IIT2018159 - Tushar Atrey <br/>
