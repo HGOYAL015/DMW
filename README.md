@@ -8,6 +8,6 @@ Assignment For 6th Semester Course Data Mining and Warehouse course
 5. IIT2018159 - Tushar Atrey <br/>
 
 
-Assignment-3(The Generalization Ability of SVM Classification) <br/>
-Assignment-4(Deep SVDD) <br/>
+Assignment-3 (The Generalization Ability of SVM Classification) <br/>
+Assignment-4 (Deep SVDD) <br/>
 
