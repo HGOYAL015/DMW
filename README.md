@@ -7,7 +7,7 @@ Assignment For 6th Semester Course Data Mining and Warehouse course
 4. IIT2018158 - Meet Singh Gambhir <br/>
 5. IIT2018159 - Tushar Atrey <br/>
 
-Assignment-2 (Deep SVDD) <br/>
+Assignment-2 (Deep One-Class Classification) <br/>
 Assignment-3 (The Generalization Ability of SVM Classification) <br/>
 
 
